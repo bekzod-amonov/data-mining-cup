@@ -1,0 +1,8 @@
+    March 1, 2024: start of the competition
+    May 10, 2024 (23:59 GMT): deadline for submitting the predictions
+    May 12, 2024 (23:59 GMT): deadline for sending the reports, end of the competition
+    May 19, 2024: online publication of the final results, sending invitations for submitting short papers for the special session at FedCSIS'24
+    June 16, 2024: deadline for submitting invited papers
+    June 30, 2024: notification of paper acceptance
+    July 9, 2024: camera-ready of accepted papers, and registration for the conference are due
+
